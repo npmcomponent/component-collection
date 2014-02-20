@@ -1,8 +1,8 @@
 
 try {
-  var Enumerable = require('enumerable');
+  var Enumerable = require('component-enumerable');
 } catch (e) {
-  var Enumerable = require('enumerable-component');
+  // commented out by npm-component: var Enumerable = require('enumerable-component');
 }
 
 /**

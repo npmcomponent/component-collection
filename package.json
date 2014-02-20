@@ -1,6 +1,5 @@
 {
-  "name": "collection",
-  "repository": "git://github.com/component/collection.git",
+  "name": "component-collection",
   "description": "Enumerable data model collections",
   "version": "0.0.2",
   "keywords": [
@@ -10,7 +9,7 @@
     "db"
   ],
   "dependencies": {
-    "enumerable-component": "~0.3.1"
+    "component-enumerable": "git://github.com/npmcomponent/component-enumerable.git"
   },
   "license": "MIT"
 }
